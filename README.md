@@ -6,9 +6,9 @@ Enhanced config for **Wuthering Waves**: balanced visuals + performance on Intel
 
 ## Contents
 
-- `Config/Engine.ini` — custom Engine.ini (shadows, AO, foliage, streaming, RT).
-- `In-Game Settings/Settings.md` — recommended in-game graphics settings.
-- `Global Filters/Default.md` — default global filter (color palette).
+- [`Config/Engine.ini`](Config/Engine.ini) — custom Engine.ini (shadows, AO, foliage, streaming, RT).
+- [`In-Game Settings/Settings.md`](In-Game%20Settings/Settings.md) — recommended in-game graphics settings.
+- [`Global Filters/Default.md`](Global%20Filters/Default.md) — default global filter (color palette).
 
 ## Installation
 
